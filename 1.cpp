@@ -3,4 +3,5 @@ int dev2 = 2;
 int dev3 = 3;
 int dev4 = 4;
 
-void Indeed();
+void f_dev1_0();
+void f_dev1_1();
