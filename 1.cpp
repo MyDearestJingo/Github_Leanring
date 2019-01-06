@@ -1,0 +1,1 @@
+int master = 0; // init
