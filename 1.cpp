@@ -5,3 +5,4 @@ int dev4 = 4;
 
 void f_dev1_0();
 void f_dev1_1();
+void incomplete();
